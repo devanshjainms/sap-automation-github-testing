@@ -19,6 +19,7 @@ on:
         type: choice
         options:
           - DJDEV-WEEU-SAP_LIBRARY
+          - WORK-WEEU-SAP_LIBRARY
       use_webapp:
         default: true
         description: Deploy the configuration web application infrastructure
